@@ -1,7 +1,5 @@
 # whiteboard
 
-aigc 迭代产物
-
 ## uv 安装 whisperx
 
 > 更新于 2026-02-10
@@ -58,3 +56,14 @@ whisperx "C:\Users\Ksfour\Downloads\audio.wav" --language en --diarize --min_spe
    - [pyannote/segmentation-3.0](https://huggingface.co/pyannote/segmentation-3.0)
    - [pyannote/speaker-diarization-3.1](https://huggingface.co/pyannote/speaker-diarization-3.1)
 3. 运行时加上 `--hf_token hf_xxxxxxx`
+
+---
+
+Users care about results. Everything else is noise.\
+用户最关心的，事实上，是交付。
+
+Learning deployment strategies or fixing broken environments due to deprecated parameters creates barriers. If you spend hours fighting dependencies just to test a tool, you aren't just wasting time—you are wasting your life.\
+用户除交付外的第二个目的才是学习。如果用户还要学习如何部署，并且还要面对脆弱的环境崩坏，那么他就在检验交付结果之前浪费了生命，而不仅仅是时间。
+
+**Your life** is what matters most.\
+**用户的生命**是最重要的。
